@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EasyPOS-main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EasyPOS-main.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
